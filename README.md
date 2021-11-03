@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devops-padawan
 - 👀 I’m interested in devops technology
-- 🌱 I’m currently learning openshift
+- 🌱 I’m currently learning OpenShift
 - 💞️ I’m looking to collaborate on taking RHCA
 - 📫 How to reach me padawan.devops@gmail.com
 <!---
